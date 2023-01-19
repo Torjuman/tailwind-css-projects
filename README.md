@@ -8,9 +8,9 @@ __GitHub Link: [Paytm Clone GitHub](https://github.com/Torjuman/paytm-home-page-
 
 ## Rode Website Clone
 
-__Deployed Link: [Rode Website Clone](https://tr-rode-clone.netlify.app/)__
+__Deployed Link: [Rode Clone Website](https://tr-rode-clone.netlify.app/)__
 
-__GitHub Link: [Rode Website Clone](https://github.com/Torjuman/rode-home-page-ui-clone-iNeuron-fsjs2022)__
+__GitHub Link: [Rode Clone GitHub](https://github.com/Torjuman/rode-home-page-ui-clone-iNeuron-fsjs2022)__
 
 ## Shopify Website Clone
 
